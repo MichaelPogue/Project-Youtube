@@ -12,3 +12,6 @@
 # File Locations
 data/
 Trending Folder/
+
+# Specific items
+youtube_data_scrape.py
