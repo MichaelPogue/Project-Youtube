@@ -1,0 +1,14 @@
+# Client/Personal Data
+*.env
+
+# File Types
+*.json
+*.csv
+
+# Jupyter Notebooks
+*.ipynb_checkpoints
+*.ipynb
+
+# File Locations
+data/
+Trending Folder/
